@@ -1,0 +1,61 @@
+body {
+    background-color: #95dffe30;
+    color: black;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+}
+h1 {
+    color: black;
+    font-size: 50px;
+    margin-top: 0px;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.status {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#distribute-rewards {
+    position:inherit;
+}
+
+#winner-label {
+    position:inherit;
+}
+
+#outerContainer {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#topPlayerContainer {
+    text-align: center;
+    border-bottom: 0.5px solid lightgray;
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+
+#bottomPlayerContainer {
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#lock-reveal-div {
+  margin-bottom: 10px;
+}
+
+#headerContainer {
+    text-align: center;
+}
